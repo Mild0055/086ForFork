@@ -3,7 +3,11 @@
         <tr>
             <td width="23" rowspan="2">&nbsp;</td>
             <td height="119" colspan="2" bgcolor="#006600">
+
+                <h1><center><font color="#FFFFFF">aa00000อพาร์ตตาเมนต์</font></center></h1>
+
                 <h1><center><font color="#FFFFFF">อาพาทึ</font></center></h1>
+
                 <?php include "Date.php"; ?>
             </td>
             <td width="43" rowspan="2">&nbsp;</td>
@@ -17,7 +21,7 @@
 
 				<li><a href="room.php">ห้องพัก&ราคา</li>
 				<li><a herf="guest.php">สมุดเยี่ยมญาติ</li>
-				<li><a href="contact.php">ติดต่อ ต่อเติม</li>
+				
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
